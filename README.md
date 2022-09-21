@@ -10,4 +10,4 @@ My skills include:
 - Quantum computing
 - DevOps
 
-Feel free to shoot me an email at e.sheehan@wustl.edu!
+Feel free to shoot me an email at e.sheehan(at)wustl.edu!
