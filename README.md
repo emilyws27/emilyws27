@@ -10,4 +10,4 @@ Technically speaking, I have a diverse skillset. I am confident in my abilities 
 >- Quantum Computing
 >- DevOps
 
-Think we might work well together, or just want to reach out? Shoot me an email at e.sheehan(at)wustl.edu!
+Think we might work well together or just want to reach out? Shoot me an email at e.sheehan(at)wustl.edu!
