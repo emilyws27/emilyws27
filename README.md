@@ -10,4 +10,4 @@ Technically speaking, I have a diverse skillset. I am confident in my abilities 
 >- Quantum Computing
 >- DevOps
 
-Think we might work well together or just want to reach out? Shoot me an email at e.sheehan(at)wustl.edu! I'll be working as a SWE at Microsoft for the summer of 2023, but am always open to exploring new opportunities.
+Think we might work well together or just want to reach out? Shoot me an email at e.sheehan(at)wustl.edu! I'll be working as a SWE at Microsoft for the summer of 2023 but am always open to exploring new opportunities.
